@@ -1,5 +1,8 @@
 # Social Distancing Monitoring Project
 
+<p>
+  <img src = "https://www.aljazeera.com/wp-content/uploads/2020/03/d42a4e22ee344ff5a9f5061d4869cee1_18.jpeg?resize=1200%2C675" alt = "social distance"/>
+</p>
 ## Overview
 
 This project focuses on monitoring social distancing through a cutting-edge image processing and computer vision model. Leveraging YOLOv4-based Deep Neural Network technology, the model achieves exceptional accuracy in detecting human interactions in surveillance camera footage.
